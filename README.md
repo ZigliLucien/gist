@@ -1,2 +1,2 @@
 # gist
-For gists
+Go to gist.github.com etc.
